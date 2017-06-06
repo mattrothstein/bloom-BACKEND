@@ -1,24 +1,4 @@
-# README
+# Feedback
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This application is being developed with rails 5 API and react.js:
+* Feedback will connect users with their network and view all of their recommendation and feedback for businesses and services. Users can then rely on the feedback of their peers to make informed decisions. Instead reading what some stranger likes on yelp or google reviews discover the recommendations of your peers.
