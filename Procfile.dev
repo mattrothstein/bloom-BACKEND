@@ -1,2 +1,2 @@
-web: cd client && PORT=3001 npm start
+web: cd client && PORT=3001 yarn start
 api: PORT=3002 && bundle exec rails s
