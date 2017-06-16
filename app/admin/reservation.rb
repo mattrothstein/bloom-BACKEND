@@ -4,6 +4,4 @@ ActiveAdmin.register Reservation do
 #
   permit_params :injector_id, :user_id, :provider_id, :location, :date_time, :services, :party_size
 
-
-
 end
